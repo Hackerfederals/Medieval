@@ -846,3 +846,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 05:07:47.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
 [04Dec2024 05:10:11.209] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [04Dec2024 05:10:11.241] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Dec2024 05:38:37.798] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HackerFederals lost connection: Timed out
+[04Dec2024 05:38:37.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HackerFederals left the game
